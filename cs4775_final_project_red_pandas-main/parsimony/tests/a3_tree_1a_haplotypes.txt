@@ -1,0 +1,4 @@
+H1	human
+H2	dog
+H3	mouse
+H4	rat
