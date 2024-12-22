@@ -34,7 +34,7 @@ python weightednj.py -f <distance_matrix_file> -o <outgroup_species> -nwk <outpu
 Arguments (default is to use sequences listed in paper):
 - -f: Path to the distance file matrix file (default: distancematrix.txt)
 - -o: Name of the outgroup species to root the tree (default: HQ992981.1)
-- -nwk: Path to the output file to store the Newwick formatted tree (default: tree.nwk)
+- -nwk: Path to the output file to store the Newick formatted tree (default: tree.nwk)
 
 Output:
 A Newick formatted tree saved in the specified output file.
