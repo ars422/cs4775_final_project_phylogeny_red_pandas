@@ -5,11 +5,11 @@
 python3 parsimony.py -m mapping_haplotypes.txt -f clustalw_slow.fasta
 echo -e "----------------------------------------------\n"
 
-# Weighbor
+# NJ
 python3 parsimony.py -m mapping_haplotypes.txt -f clustalw_slow.fasta -nwk NJ.nwk
 echo -e "----------------------------------------------\n"
 
-# NJ
+# Weighbor
 python3 parsimony.py -m mapping_haplotypes.txt -f clustalw_slow.fasta -nwk WNJ.nwk
 echo -e "----------------------------------------------\n"
 
